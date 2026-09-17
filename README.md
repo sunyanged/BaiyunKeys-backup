@@ -19,9 +19,7 @@ BaiyunKeys 是一款基于“平安回家”App复刻的蓝牙门禁微信小程
 
 ## 小程序二维码：
 
-<div align="center">
-  <img src="./preview-pic/mini-program-qr.png" alt="BaiyunKeys 小程序二维码" width="40%" />
-</div>
+
 
 ## 使用指南
 1. 首次使用时，请在「帮助」页阅读免责声明，并选择适合的参数导入方式（自动获取、数据库提取或抓包）。
